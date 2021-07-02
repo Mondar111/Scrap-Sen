@@ -13,22 +13,22 @@
   "website": "https://github.com/SpEcHiDe/MyTelegramOrgRoBot",
   "env": {
     "WEBHOOK": {
-      "description": "Setting this to ANYTHING will enable webhooks when in env mode",
+      "description": "Mengatur ini ke apa pun akan memungkinkan WebHook ketika dalam mode Env",
       "value": "ANYTHING"
     },
     "TG_BOT_TOKEN": {
-      "description": "Your bot token, as a string."
+      "description": "Token bot Anda, sebagai string."
     },
     "URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
       "value": "https://example.com/"
     },
     "APP_TITLE": {
-      "description": "specify a custom app title",
+      "description": "Tentukan judul aplikasi khusus",
       "required": false
     },
     "APP_SHORT_NAME": {
-      "description": "specify a custom alphamumeric shortname (5-32 characters)",
+      "description": "Tentukan nama pendek alfamumerik kustom (5-32 karakter)",
       "required": false
     },
     "APP_URL": {
@@ -68,7 +68,7 @@
       "required": false
     },
     "IN_VALID_PHNO_PVDED": {
-      "description": "a message that will be shown if `get_phno_imn_ges` logic, breaks",
+      "description": "Pesan yang akan ditampilkan jika logika `get_phno_imn_ges`, istirahat",
       "required": false
     }
   },
