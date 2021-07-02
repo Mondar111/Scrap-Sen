@@ -44,7 +44,7 @@
       "required": false
     },
     "START_TEXT": {
-      "description": "the start text of the Telegram bot",
+      "description": "Teks Mulai dari Bot Telegram",
       "required": false
     },
     "AFTER_RECVD_CODE_TEXT": {
