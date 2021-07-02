@@ -35,7 +35,7 @@ class Config:
         "created using https://telegram.dog/scrapmanbot"
     )
     #
-    FOOTER_TEXT = os.environ.get("FTEXT", "Managed With ☕️ By @mrismanaziz")
+    FOOTER_TEXT = os.environ.get("FTEXT", "💃 By @pikyus1 🍻Channel @fckyoupeople1")
     # the strings used in the different messages
     # in the bot
     START_TEXT = os.environ.get("START_TEXT", Translation.START_TEXT)
