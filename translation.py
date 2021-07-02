@@ -4,10 +4,10 @@ Kegunaan Bot ini untuk membantu anda mengambil API ID & API HASH Telegram Dengan
 Silahkan Masukkan Nomor Telepon Telegram Anda Dengan Format +62(nohp).
 """
     AFTER_RECVD_CODE_TEXT = """No HP Diterima!
-Sekarang silakan kirim kode Telegram yang Anda terima dari Telegram!
+Sekarang silakan kirim kode Telegram yang Anda terima dari Telegram!💃
 
 Kode ini hanya digunakan untuk tujuan mendapatkan ID APP dari my.telegram.org
-jika Anda tidak mempercayai dev bot ini, Ngambil Manual aja Goblokk 😁🙏
+Jadi Jangan takut ditipu,santayy aja kali🐈
 """
     BEFORE_SUCC_LOGIN = "Kode Diterima. Scarpping Web Page..."
     ERRED_PAGE = "Hadeh Error. Gagal Mendapatkan id aplikasi. \n\n Kontak saya : @pikyus1"
